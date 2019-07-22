@@ -1,0 +1,16 @@
+meta:
+  title: Articles on Assorted Subjects
+  language: English
+  description: This text was created from a Manifold manifest ingestion. Manifest ingestions bring together documents from a variety of sources.
+  creators:
+    - name: David Prinn
+    - name: Jane I. Sargeant
+    - name: Helmut S. W. Dahmus
+toc:
+  - label: Neomaterialist Theories
+    source_path: https://docs.google.com/document/d/1BVGD-U1m9Wmlh4AbiC8cxZNah_XCYct3NWJCNJQMbaQ/edit?usp=sharing
+    start_section: true
+  - label: Surrealism and Subcapitalist Structuralist Theory
+    source_path: https://docs.google.com/document/d/1MkUca-xXPsgwoUUBDNQfzaoVmuGOKMsEZGIpWYYQziM/edit?usp=sharing
+  - label: The Defining Characteristic of Language
+    source_path: https://docs.google.com/document/d/15OnDSSXQ5TgNQi9HwjYIRmUAElIF0GuUKiKRpUQri2U/edit?usp=sharing
