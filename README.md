@@ -1,5 +1,7 @@
 # ACH 2019 Manifold Scholarship Workshop
 
+*The slides for our presentation can be [downloaded here](https://github.com/ManifoldScholar/ach-workshop/raw/master/assets/072019-ach.key)*
+
 The goal of this hour-long, hands-on segment of our workshop is to give attendees an opportunity to explore Manifold and begin getting comfortable managing content on a Manifold project.
 
 In particular, we'll cover the following tasks:
